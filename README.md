@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdityaDarak22  
 - 👀 I’m focused on building strong skills in Data Analytics and Cloud Data Engineering  
-- 🛠️ I work with SQL, Python, Power BI, and ETL pipelines  
-- 🌱 Currently learning Azure, Airflow, and advanced data workflows  
+- 🛠️ I work with SQL, Python, Tableau, Airflow and ETL pipelines  
+- 🌱 Currently learning Azure and advanced data workflows  
 - 📫 Reach me on LinkedIn: [linkedin.com/in/adityadarak](https://www.linkedin.com/in/adityadarak/)
 
 
